@@ -77,3 +77,7 @@ p.comment_title {
 	margin-bottom: 5px;
 	font-size: 1rem;
 }
+
+.center {
+	text-align: center;
+}
